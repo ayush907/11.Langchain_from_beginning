@@ -4,6 +4,7 @@ langchain-openai
 openai 
 langchain-anthropic 
 langchain-google-genai 
+langchain_community
 google-generativeai 
 langchain-huggingface 
 transformers 
